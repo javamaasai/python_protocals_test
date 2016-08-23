@@ -1,0 +1,15 @@
+status: 200
+server: SimpleHTTP/0.6 Python/3.5.2
+content-type: text/html
+content-location: http://localhost:8080/
+last-modified: Sun, 21 Aug 2016 10:53:15 GMT
+content-length: 92
+date: Sun, 21 Aug 2016 11:14:25 GMT
+
+<body>
+<head>
+	<title>Dummy HTML</title>
+</head>
+<body>
+	<h1>I love kenya</h1>
+</body>
